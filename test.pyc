@@ -1,0 +1,9 @@
+var firstVar = 'hello';
+var secondVar = 'world';
+print(firstVar+' '+secondVar);
+
+function imAFunction(){
+  print('ok');
+}
+
+imAFunction();
